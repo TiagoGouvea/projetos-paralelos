@@ -1,12 +1,12 @@
 # Projetos paralelos
 
-Tenho uma lista gigante de ideias de projetos menores, que gostaria de fazê-los, mas não tenho "braço" pra isso, porque hoje meu tempo está muito voltado aos projetos e clientes da minha empresa, a [App Masters](appmasters.io).
+Tenho uma lista gigante de ideias de projetos menores, que gostaria de desenvolve-los, mas não tenho "braço" pra isso, porque hoje meu tempo está muito voltado aos projetos e clientes da minha empresa, a [App Masters](appmasters.io).
 
-Ao mesmo, estes são projetos interessantes para quem quer aprender com problemas reais, porque trazem desafios interessantes e podem servir de alanca no aprendizado. Além do que, é uma oportunidade pra eu te conhecer melhor, e quem sabem mais na frente vir estagiar conosco.
+Ao mesmo, estes são projetos interessantes para quem quer aprender com problemas reais, porque trazem desafios interessantes e podem servir de alanca no aprendizado. São pequenos e levemente complicados. Além do que, é uma oportunidade pra eu te conhecer melhor, e quem sabem mais na frente vir estagiar conosco.
 
 Por isso estou criando esse programa experimental, de projetos paralelos, com uma sequência de etapas e fases.
 
-👉 Dê uma olhada [neste post](https://www.linkedin.com/feed/update/urn:li:activity:7112115993144885248/) meu no Linkedin para entender um pouco mais o contexto.
+👉 Dê uma olhada [neste post](https://www.linkedin.com/feed/update/urn:li:activity:7112115993144885248/) meu no Linkedin para entender um pouco mais o contexto, e se possível leia os comentários e reflita.
 
 É uma proposta experimental, e te peço para não se interessar por ela, se tiver qualquer dúvida quanto a eficácia disso.
 
@@ -26,9 +26,15 @@ Se você precisa de documentos de requisitos, por favor não participe.
 
 Se você não gosta de arriscar, melhor não correr esse risco.
 
+Se você não quer ser parte de um experimento, não participe.
+
+Se você não curte mudar os planos no meio do caminho, não participe, porque semanalmente eu irei revalidar tudo, e muderei o se achar necessário.
+
 Se você precisa de cursinho pra fazer tudo, de alguém te ensinando tudo, melhor procurar mais um cursinho.
 
 Se você não sente que consegue ensinar o que aprendeu, também não te recomendo ir em frente.
+
+Este não é um programa de voluntariado. O maior beneficiário será você mesmo. Se você não concorda, não participe.
 
 # Expectativas
 
@@ -77,6 +83,11 @@ Te darei feedback em todas as entregas.
 - Ter linkedin com o mínimo de informações
 - Se inscrever por [este formulário](https://forms.gle/YaubhBUYzpoiJRV48)
 - Aguardar meu retorno pelo whatsapp
+- Se formos avançar, teremos uma conversa rápida pra gente se conhecer
+
+Não tenho como trazer tantas pessoas, então por favor tenha paciência. 
+
+Recomendo também dar uma olhada no [SouJunior](https://www.linkedin.com/company/soujunior/)
 
 # Os projetos
 
