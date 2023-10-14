@@ -68,10 +68,13 @@ Toda semana teremos ao menos uma reunião, com outros participantes juntos, para
 
 Toda semana você precisará entregar pelo ao menos uma versão funcionando, do que estiver desenvolvendo, e dar push para o repositório.
 
+Te darei feedback em todas as entregas.
+
 # Para participar
 
 - Ter o mínimo de prática com código
 - Ter github com projetos
+- Ter linkedin com o mínimo de informações
 - Se inscrever por [este formulário](https://forms.gle/YaubhBUYzpoiJRV48)
 - Aguardar meu retorno pelo whatsapp
 
