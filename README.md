@@ -153,3 +153,12 @@ Aqui, estaríamos fazendo apenas do frontend do projeto.
 A Dolby oferece uma API para tratamento de audio que já usamos em um projeto, porém não oferecem um sistema para o usuário final.
 
 A ideia é fazer um WebApp, que irá ler uma pasta no disco do usuário, permitir testar diferentes combinações de filtros, e então processar os arquivos, realizando a chamada na API enviando cada arquivo com os parametros, e salvando o retorno em outra pasta.
+
+## Chat GPT para website
+
+- Ferramenta web
+- React
+
+Muitas empresas precisam ter chat em seus sites, porém nem sempre tem alguém para atender, e o GPT poderia estar lá para responder o que for preciso.
+
+Já tenho um backend pronto para isso, e precisamos desenvolver o frontend por onde as informações seriam treinadas, e a interface do chat em si.
